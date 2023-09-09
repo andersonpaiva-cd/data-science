@@ -1,2 +1,2 @@
 # data-science
-Data Science Project
+Data Science projects from courses and studies
